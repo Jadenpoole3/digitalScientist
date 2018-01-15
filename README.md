@@ -1,6 +1,6 @@
 # digitalScientist
 
-Ionic + Google Vision API mobile application to identify objects in pictures taken using the phone.
+Ionic + TypeScript + Google Vision API mobile application to identify objects in pictures taken using the phone.
 
 
 # Heroku 
